@@ -1,0 +1,187 @@
+﻿.DropSemana {
+    background-color: #041b60;
+    color: white;
+    padding: 8px;
+    font-size: 12px;
+    border: none;
+    cursor: pointer;
+    -moz-border-radius: 7px 27px 100px 0px;
+    border-radius: 7px 27px 100px 0px;
+}
+
+.btnConsultar {
+    font-size: 14px;
+    margin-bottom: 10px;
+    background-color: #fff;
+    padding-left: 20px;
+    padding: 10px 15px;
+    cursor: pointer;
+    color: #fff;
+    border-radius: 4px;
+    background-color: #2ECC71;
+    border-bottom: 4px solid #27AE60;
+    margin-bottom: 10px;
+    border-left-style: none;
+    border-left-color: inherit;
+    border-left-width: medium;
+    border-right-style: none;
+    border-right-color: inherit;
+    border-right-width: medium;
+    border-top-style: none;
+    border-top-color: inherit;
+    border-top-width: medium;
+    margin-left: 20px;
+}
+
+.lblAño {
+    margin-left: 250px;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.lblNombre {
+    margin-left: 100px;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.lblN {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.lblSemana {
+    margin-left: 0px;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.th {
+    border-collapse: separate;
+}
+
+.element .style .td {
+    font-weight: bold
+}
+
+.img {
+    width: 50px;
+    padding: 10px;
+}
+
+.lbl {
+    margin-left: 280px;
+}
+
+.txtEnviar {
+    width: 250px;
+    height: 29px;
+}
+
+.btnEnviar {
+    font-size: 14px;
+    margin-bottom: 10px;
+    background-color: #fff;
+    padding-left: 20px;
+    padding: 10px 15px;
+    cursor: pointer;
+    color: #fff;
+    border-radius: 4px;
+    background-color: #2ECC71;
+    border-bottom: 4px solid #27AE60;
+    margin-bottom: 10px;
+    border-left-style: none;
+    border-left-color: inherit;
+    border-left-width: medium;
+    border-right-style: none;
+    border-right-color: inherit;
+    border-right-width: medium;
+    border-top-style: none;
+    border-top-color: inherit;
+    border-top-width: medium;
+    margin-left: 954px;
+}
+
+.image {
+    width: 50px;
+}
+
+.auto-style4 {
+    margin-left: 241px;
+}
+
+.lblNombre {
+    margin-left: 50px;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.lblNombreE {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.form-input:last-child::before {
+    position: absolute;
+    font-family: "FontAwesome";
+    color: #868585;
+    padding-top: 8px;
+    font-size: 16px;
+}
+
+.txtbuscar {
+    height: 35px;
+    width: 200px;
+    font-size: 14px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    padding-left: 15px;
+    margin-left: 380px;
+    margin-top: -15px;
+}
+
+.auto-style5 {
+    margin-left: 29px;
+    margin-top: 0px;
+}
+
+.auto-style6 {
+    margin-left: 0px;
+}
+
+.auto-style7 {
+    height: 187px;
+    width: 625px;
+    overflow: scroll;
+    margin-left: 412px;
+}
+
+.auto-style8 {
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+
+.auto-style4 {
+    left: -68px;
+    top: -40px;
+    width: 228px;
+    height: 40px;
+}
+
+.txtCC {
+    height: 35px;
+    width: 200px;
+    font-size: 14px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    padding-left: 15px;
+    margin-left: 13px;
+    margin-top: -15px;
+}

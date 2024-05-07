@@ -1,0 +1,160 @@
+﻿
+.h1 {
+    background-color: white;
+    padding: 0px 44px 19px 59px
+}
+
+.btnRegistrar {
+    font-size: 14px;
+    margin-bottom: 10px;
+    background-color: #fff;
+    padding-left: 20px;
+    padding: 10px 15px;
+    cursor: pointer;
+    color: #fff;
+    border-radius: 4px;
+    background-color: #2ECC71;
+    border-bottom: 4px solid #27AE60;
+    margin-bottom: 10px;
+    border-left-style: none;
+    border-left-color: inherit;
+    border-left-width: medium;
+    border-right-style: none;
+    border-right-color: inherit;
+    border-right-width: medium;
+    border-top-style: none;
+    border-top-color: inherit;
+    border-top-width: medium;  
+    margin-left: 288px;
+    margin-top: 20px;
+}
+
+
+.label{
+    color:white;
+}
+
+input[type="text"], input[type="password"] {
+    height: 35px;
+    width: 200px;
+    font-size: 14px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    padding-left: 10px;
+}
+
+.form-input:last-child::before {
+    position: absolute;
+    font-family: "FontAwesome";   
+    color: #868585;
+    padding-top: 8px;
+    font-size: 16px;
+}
+
+input[type="text"], input[type="password"] {
+    height: 35px;
+    width: 200px;
+    font-size: 14px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    padding-left: 10px;
+}
+.txtCodigo{
+   
+}
+.txtNombre {
+    margin-left: 97px;
+}
+.txtCE {
+    margin-left: 14px;
+}
+.txtContraseña {
+    margin-left: 64px;
+    
+}
+.container {
+    width: 490px;
+    height: 380px;
+    text-align: center;
+    background-color: #2953a5;
+    border-radius: 23px 23px 23px 23px;
+    -moz-border-radius: 23px 23px 23px 23px;
+    -webkit-border-radius: 23px 23px 23px 23px;
+    border: 0px solid #000000;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.btnRegresar {
+    font-size: 14px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    border-left-style: none;
+    border-left-color: inherit;
+    border-left-width: medium;
+    border-right-style: none;
+    border-right-color: inherit;
+    border-right-width: medium;
+    border-top-style: none;
+    border-top-color: inherit;
+    border-top-width: medium;
+    margin-left:-300px;
+}
+.txtEnviar {
+    width: 250px;
+    height: 29px;
+}
+
+.txtCorreo {
+    height: 35px;
+    width: 200px;
+    font-size: 14px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    padding-left: 40px;
+    margin-left: 32px;
+    margin-top: -15px;
+}
+
+.auto-style4 {
+    left: -195px;
+    top: -40px;
+    width: 305px;
+    height: 7px;
+}
+
+.btnGenerar {
+    font-size: 14px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    border-left-style: none;
+    border-left-color: inherit;
+    border-left-width: medium;
+    border-right-style: none;
+    border-right-color: inherit;
+    border-right-width: medium;
+    border-top-style: none;
+    border-top-color: inherit;
+    border-top-width: medium;
+    margin-left: -300px;
+    background-color:cornflowerblue;
+    color:white;
+    margin-top:30px;
+}
+.lbluser {
+    color: white;
+}
+
+.dropuser {
+    width: 220px;
+    height: 40px;
+    margin-left:34px;
+}
